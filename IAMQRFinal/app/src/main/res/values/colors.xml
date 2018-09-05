@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Paleta de colores-->
+    <color name="colorPrimary">#673ab7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="colorAccent">#ff9800</color>
+    <color name="colorPrimaryLight">#D1C4E9</color>
+    <color name="textIcons">#ffffff</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+
+    <!--Otros colores-->
+    <color name="fullBlack">#000000</color>
+    <color name="colorAccentLight">#FFC107</color>
+    <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorBlack">#000000</color>
+    <color name="navigationBarColor">#1E2D3E</color>
+    <color name="backgroundtext_card">#53292929</color>
+
+</resources>
